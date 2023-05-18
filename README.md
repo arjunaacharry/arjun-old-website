@@ -20,3 +20,6 @@
 
 #### Landing Page
 - **UI Design [6](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/adc97f12-428a-442f-8643-8d0c0c828f3c)**
+
+#### 404 Page
+- **UI Design [7](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/e3b04a0f-7af3-415f-b4c4-afec33a7a0f9)**
