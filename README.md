@@ -23,3 +23,6 @@
 
 #### 404 Page
 - **UI Design [7](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/e3b04a0f-7af3-415f-b4c4-afec33a7a0f9)**
+
+#### Home Page
+- **UI Design [8](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/edb15676-0aca-42ac-9122-8ab60cf5b4ed)**
