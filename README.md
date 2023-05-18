@@ -1,6 +1,6 @@
 # arjunaacharry.github.io
 
-
+## These are the images used to showcase my portfolio.
 
 ## Showcase Images
 #### Finance App
