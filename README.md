@@ -17,3 +17,6 @@
 
 #### Checkout Page
 - **UI Design [5](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/e9e4d78c-59db-410f-9d10-bcd2fc4d8d05)**
+
+#### Landing Page
+- **UI Design [6](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/adc97f12-428a-442f-8643-8d0c0c828f3c)**
