@@ -27,5 +27,5 @@
 #### Home Page
 - **UI Design [8](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/edb15676-0aca-42ac-9122-8ab60cf5b4ed)**
 
-#### Pop UP/Overlay Page
+#### Pop-Up Page
 - **UI Design [9](https://github.com/arjunaacharry/arjunaacharry.github.io/assets/115148574/0cbf6fc4-e2a3-4fff-bdbd-e8c223c6d817)**
