@@ -21,14 +21,14 @@ $(document).ready(function(){
     // type animate
 
     var typed = new Typed(".typing", {
-        strings: ["UI/UX Designer", "Graphic Designer", "Freelancer"],
+        strings: ["UI Designer", "Graphic Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["UI/UX Designer", "Graphic Designer", "Freelancer"],
+        strings: ["UI Designer", "Graphic Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
